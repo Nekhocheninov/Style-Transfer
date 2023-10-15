@@ -10,10 +10,12 @@ Follow [this link](https://colab.research.google.com/drive/1ecgyZ1TxaoFOsFLXJMPd
 
 # Samples
 
+Input images, depth-aware style transfer and style transfer, respectively:
 <img src="https://github.com/Nekhocheninov/StyleTransfer/blob/main/img/img_1.png" width="800">
 
+Input images, depth-aware style transfer and style transfer, respectively:
 <img src="https://github.com/Nekhocheninov/StyleTransfer/blob/main/img/img_2.png" width="800">
-
+  
 ### Analysis
 
 Input images:
