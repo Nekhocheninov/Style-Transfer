@@ -1,6 +1,6 @@
 # Python Depth-aware Style Transfer
 
-Depth-aware [Neural style transfer](https://en.wikipedia.org/wiki/Neural_style_transfer) algorithm in Python.
+Depth-aware [neural style transfer](https://en.wikipedia.org/wiki/Neural_style_transfer) algorithm in Python.
 
 ### Running the notebook
 
