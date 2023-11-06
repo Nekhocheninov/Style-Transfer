@@ -1,14 +1,18 @@
 # Python Depth-aware Style Transfer
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Nekhocheninov/Style-Transfer/blob/main/LICENSE.md)
+![GitHub last commit](https://img.shields.io/github/last-commit/Nekhocheninov/Style-Transfer)
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-Open-blue?logo=google-colab)](https://colab.research.google.com/drive/1ecgyZ1TxaoFOsFLXJMPd4UGqMcyq3ZXJ?usp=sharing)
+
 Depth-aware [neural style transfer](https://en.wikipedia.org/wiki/Neural_style_transfer) algorithm in Python.
 
-### Running the notebook
+## Running the notebook
 
 The code was written in Python across Jupyter notebooks. It was developed in Google Colab which is a free Jupyter notebook environment that allows you to run code through a browser.
 
 Follow [this link](https://colab.research.google.com/drive/1ecgyZ1TxaoFOsFLXJMPd4UGqMcyq3ZXJ?usp=sharing) to open the notepad with this code and click on Google Colaboratory.
 
-# Samples
+## Samples
 
 Input images, depth-aware style transfer and style transfer, respectively:
 <img src="https://github.com/Nekhocheninov/StyleTransfer/blob/main/img/img_1.png" width="800">
